@@ -1,6 +1,6 @@
   📫 Tech stack:
   <br>
-[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)
+
 ![React](https://img.shields.io/badge/react-%23ED8B00.svg?style=for-the-badge&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%236DB33F.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/NodeJs-%6DB33F.svg?style=for-the-badge&logo=NodeJs&logoColor=white)
