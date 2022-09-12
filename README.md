@@ -3,7 +3,7 @@
 ![React](https://img.shields.io/badge/react-%23ED8B00.svg?style=for-the-badge&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%236DB33F.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/NodeJs-%6DB33F.svg?style=for-the-badge&logo=NodeJs&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=Spring-Security&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS%20Security-6DB33F.svg?style=for-the-badge&logo=CSSlogoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
